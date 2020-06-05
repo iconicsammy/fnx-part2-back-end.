@@ -4,7 +4,7 @@ cffi==1.12.1
 chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
-Django==2.0
+Django==2.2.13
 django-cors-headers==2.4.0
 django-oauth-toolkit==1.2.0
 django-oauth2-provider==0.2.6.1
